@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain_openai
+langchain_community
+langchain_text_splitters
+pydantic
+nltk
+chromadb
+requests
+python-dotenv
